@@ -1,5 +1,5 @@
 # CS 230 - Operating Platforms
-## Portfolio Artifact: Software Design Document — The Gaming Room
+## Portfolio Reflection: Software Design Document: The Gaming Room
 
 ### About the Client and the Project
 
