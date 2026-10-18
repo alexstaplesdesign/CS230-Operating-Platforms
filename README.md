@@ -1,5 +1,9 @@
+<div align="center">
+
 # CS 230 - Operating Platforms
 ## Portfolio Reflection: Software Design Document: The Gaming Room
+
+</div>
 
 ### About the Client and the Project
 
